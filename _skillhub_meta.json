@@ -1,0 +1,16 @@
+{
+  "source": "local",
+  "installed_at": "2026-05-21T09:37:00+08:00",
+  "version": "2.2.9",
+  "name": "gov-doc-format",
+  "author": "豚豚",
+  "description": "公文排版规范（GB/T 9704-2012）— python-docx 公文排版工具包，支持A4页面设置、标题/正文/落款/版记/页码排版、跨平台字体映射",
+  "category": "文档处理",
+  "tags": [
+    "公文",
+    "排版",
+    "python-docx",
+    "docx"
+  ],
+  "install_guide": "pip install python-docx"
+}
